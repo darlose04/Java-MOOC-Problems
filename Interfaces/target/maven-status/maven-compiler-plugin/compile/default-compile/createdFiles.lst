@@ -1,0 +1,6 @@
+com/mycompany/interfaces/TextMessage.class
+com/mycompany/interfaces/Ebook.class
+com/mycompany/interfaces/Printer.class
+com/mycompany/interfaces/Main.class
+com/mycompany/interfaces/ReadingList.class
+com/mycompany/interfaces/Readable.class
